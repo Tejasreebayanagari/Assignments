@@ -1,0 +1,8 @@
+C:\Assignments\palindrom\palindrom\obj\Debug\palindrom.csproj.AssemblyReference.cache
+C:\Assignments\palindrom\palindrom\obj\Debug\palindrom.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+C:\Assignments\palindrom\palindrom\bin\Debug\palindrom.exe.config
+C:\Assignments\palindrom\palindrom\bin\Debug\palindrom.exe
+C:\Assignments\palindrom\palindrom\bin\Debug\palindrom.pdb
+C:\Assignments\palindrom\palindrom\obj\Debug\palindrom.exe
+C:\Assignments\palindrom\palindrom\obj\Debug\palindrom.pdb

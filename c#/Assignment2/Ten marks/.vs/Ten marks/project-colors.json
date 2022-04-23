@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0c120ce-44f1-4788-9ccb-48cc8adbdeee": {
+      "ProjectGuid": "c0c120ce-44f1-4788-9ccb-48cc8adbdeee",
+      "DisplayName": "Ten marks",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

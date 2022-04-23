@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0c120ce-44f1-4788-9ccb-48cc8adbdeee": {
+      "ProjectGuid": "c0c120ce-44f1-4788-9ccb-48cc8adbdeee",
+      "DisplayName": "Ten marks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
