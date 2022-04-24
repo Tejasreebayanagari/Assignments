@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF738ECE-DD45-42DF-938A-7B762C5AF11E}</ProjectGuid>
+    <ProjectGuid>{0E6AA8A0-8752-40F8-B271-68517E432948}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Same_String</RootNamespace>
-    <AssemblyName>Same String</AssemblyName>
+    <RootNamespace>Intrest_amount</RootNamespace>
+    <AssemblyName>Intrest amount</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Same String.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

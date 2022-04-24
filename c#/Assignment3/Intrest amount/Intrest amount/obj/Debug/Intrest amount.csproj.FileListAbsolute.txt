@@ -1,0 +1,2 @@
+C:\Assignments\c#\Assignment3\Intrest amount\Intrest amount\obj\Debug\Intrest amount.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\c#\Assignment3\Intrest amount\Intrest amount\obj\Debug\Intrest amount.csproj.CoreCompileInputs.cache

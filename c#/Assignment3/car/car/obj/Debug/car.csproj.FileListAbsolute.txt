@@ -1,0 +1,3 @@
+C:\Assignments\c#\Assignment3\car\car\obj\Debug\car.csproj.AssemblyReference.cache
+C:\Assignments\c#\Assignment3\car\car\obj\Debug\car.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\c#\Assignment3\car\car\obj\Debug\car.csproj.CoreCompileInputs.cache
