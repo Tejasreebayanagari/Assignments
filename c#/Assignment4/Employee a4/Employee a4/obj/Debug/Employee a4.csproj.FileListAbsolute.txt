@@ -1,0 +1,7 @@
+C:\Assignments\c#\Assignment4\Employee a4\Employee a4\obj\Debug\Employee a4.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\c#\Assignment4\Employee a4\Employee a4\obj\Debug\Employee a4.csproj.CoreCompileInputs.cache
+C:\Assignments\c#\Assignment4\Employee a4\Employee a4\bin\Debug\Employee a4.exe.config
+C:\Assignments\c#\Assignment4\Employee a4\Employee a4\bin\Debug\Employee a4.exe
+C:\Assignments\c#\Assignment4\Employee a4\Employee a4\bin\Debug\Employee a4.pdb
+C:\Assignments\c#\Assignment4\Employee a4\Employee a4\obj\Debug\Employee a4.exe
+C:\Assignments\c#\Assignment4\Employee a4\Employee a4\obj\Debug\Employee a4.pdb
