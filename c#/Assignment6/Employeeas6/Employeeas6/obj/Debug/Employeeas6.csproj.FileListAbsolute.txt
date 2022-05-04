@@ -1,0 +1,8 @@
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\bin\Debug\Employeeas6.exe.config
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\bin\Debug\Employeeas6.exe
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\bin\Debug\Employeeas6.pdb
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\obj\Debug\Employeeas6.csproj.AssemblyReference.cache
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\obj\Debug\Employeeas6.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\obj\Debug\Employeeas6.csproj.CoreCompileInputs.cache
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\obj\Debug\Employeeas6.exe
+C:\Assignments\c#\Assignment6\Employeeas6\Employeeas6\obj\Debug\Employeeas6.pdb
