@@ -1,0 +1,8 @@
+C:\Assignments\c#\codeexam_1\day13\day13\bin\Debug\day13.exe.config
+C:\Assignments\c#\codeexam_1\day13\day13\bin\Debug\day13.exe
+C:\Assignments\c#\codeexam_1\day13\day13\bin\Debug\day13.pdb
+C:\Assignments\c#\codeexam_1\day13\day13\obj\Debug\day13.csproj.AssemblyReference.cache
+C:\Assignments\c#\codeexam_1\day13\day13\obj\Debug\day13.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\c#\codeexam_1\day13\day13\obj\Debug\day13.csproj.CoreCompileInputs.cache
+C:\Assignments\c#\codeexam_1\day13\day13\obj\Debug\day13.exe
+C:\Assignments\c#\codeexam_1\day13\day13\obj\Debug\day13.pdb
