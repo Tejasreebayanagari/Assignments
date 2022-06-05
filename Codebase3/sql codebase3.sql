@@ -17,7 +17,8 @@ values(1,'Teja',38500,'P'),
 
 Select * from Code_Emp
 
-create or alter proc AddEmployee( @empname varchar(50),@empsal numeric(10,2),@emptype varchar(1))
+
+create or alter proc AddEmployee(@empname varchar(50),@empsal numeric(10,2),@emptype varchar(1))
 as
 begin
 declare @empid int =(select max(eno) from Code_Emp)

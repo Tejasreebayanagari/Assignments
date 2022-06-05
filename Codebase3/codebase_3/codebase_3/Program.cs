@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace Codebase_3
+namespace CodebaseTest3
 {
     class Program
     {
@@ -16,7 +16,7 @@ namespace Codebase_3
 
         public static SqlConnection getconnection()
         {
-            con = new SqlConnection(@"data source = RMGW58ZLPC0942\SQLEXPRESS; Initial Catalog = codebaseexam3; user id =sa; password =Temp1234");
+            con = new SqlConnection(@"data source = RMGW58ZLPC0908\SQLEXPRESS; Initial Catalog = EmployeeManagement; user id =sa; password =Temp1234");
             con.Open();
             return con;
         }
@@ -27,17 +27,17 @@ namespace Codebase_3
             {
                 con = getconnection();
                 Console.WriteLine("Enter the Employee name : ");
-                string empname = Console.ReadLine();
+                string ename = Console.ReadLine();
                 Console.WriteLine("Enter the Employee Salary : ");
-                float empsal = Convert.ToSingle(Console.ReadLine());
-                Console.WriteLine("Enter the Employee type (Contract(C) or Permanent(P) ) : ");
-                string emptype = Console.ReadLine();
+                float esal = Convert.ToSingle(Console.ReadLine());
+                Console.WriteLine("Enter the Employee type (C or P) : ");
+                string etype = Console.ReadLine();
                 cmd = new SqlCommand("AddEmployee", con);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd = new SqlCommand("execute AddEmployee @empname,@empsal,@emptype", con);
-                cmd.Parameters.Add(new SqlParameter("@empname", empname));
-                cmd.Parameters.Add(new SqlParameter("@empsal", empsal));
-                cmd.Parameters.Add(new SqlParameter("@emptype", emptype));
+                cmd = new SqlCommand("execute AddEmployee @ename,@esal,@etype", con);
+                cmd.Parameters.Add(new SqlParameter("@ename", ename));
+                cmd.Parameters.Add(new SqlParameter("@esal", esal));
+                cmd.Parameters.Add(new SqlParameter("@etype", etype));
 
 
                 int res = cmd.ExecuteNonQuery();
@@ -60,7 +60,7 @@ namespace Codebase_3
             con = getconnection();
 
 
-            cmd = new SqlCommand("select * from Code_Emp", con);
+            cmd = new SqlCommand("select * from Code_Employee", con);
 
 
 
@@ -72,7 +72,7 @@ namespace Codebase_3
                 Console.WriteLine("Emp name is : " + dr[1]);
                 Console.WriteLine("Emp Salary is : " + dr[2]);
                 Console.WriteLine("Emp Type is : " + dr[3]);
-                Console.WriteLine("--------------------------------------");
+                Console.WriteLine("\n \n");
 
             }
         }
