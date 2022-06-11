@@ -1,0 +1,7 @@
+C:\Assignments\web Technology\JavaScript\Java Script 01\javascript2\javascript2\bin\Debug\javascript2.exe.config
+C:\Assignments\web Technology\JavaScript\Java Script 01\javascript2\javascript2\bin\Debug\javascript2.exe
+C:\Assignments\web Technology\JavaScript\Java Script 01\javascript2\javascript2\bin\Debug\javascript2.pdb
+C:\Assignments\web Technology\JavaScript\Java Script 01\javascript2\javascript2\obj\Debug\javascript2.csproj.AssemblyReference.cache
+C:\Assignments\web Technology\JavaScript\Java Script 01\javascript2\javascript2\obj\Debug\javascript2.csproj.CoreCompileInputs.cache
+C:\Assignments\web Technology\JavaScript\Java Script 01\javascript2\javascript2\obj\Debug\javascript2.exe
+C:\Assignments\web Technology\JavaScript\Java Script 01\javascript2\javascript2\obj\Debug\javascript2.pdb

@@ -1,0 +1,6 @@
+C:\Assignments\web Technology\JavaScript\Java Script 01\javasrcipt3\javasrcipt3\bin\Debug\javasrcipt3.exe.config
+C:\Assignments\web Technology\JavaScript\Java Script 01\javasrcipt3\javasrcipt3\bin\Debug\javasrcipt3.exe
+C:\Assignments\web Technology\JavaScript\Java Script 01\javasrcipt3\javasrcipt3\bin\Debug\javasrcipt3.pdb
+C:\Assignments\web Technology\JavaScript\Java Script 01\javasrcipt3\javasrcipt3\obj\Debug\javasrcipt3.csproj.CoreCompileInputs.cache
+C:\Assignments\web Technology\JavaScript\Java Script 01\javasrcipt3\javasrcipt3\obj\Debug\javasrcipt3.exe
+C:\Assignments\web Technology\JavaScript\Java Script 01\javasrcipt3\javasrcipt3\obj\Debug\javasrcipt3.pdb

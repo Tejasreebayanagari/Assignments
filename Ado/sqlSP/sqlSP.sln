@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlSP", "sqlSP\sqlSP.csproj", "{A2A9F8AF-BE04-4690-A671-047A66BD35D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A9F8AF-BE04-4690-A671-047A66BD35D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A9F8AF-BE04-4690-A671-047A66BD35D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A9F8AF-BE04-4690-A671-047A66BD35D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A9F8AF-BE04-4690-A671-047A66BD35D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB3D8A2-26F5-4872-A01F-C81F455FEC82}
+	EndGlobalSection
+EndGlobal

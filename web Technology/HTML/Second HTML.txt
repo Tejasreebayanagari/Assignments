@@ -1,0 +1,17 @@
+<!doctype html>
+<head>
+<title>secondHtml</title>
+<meta charset="utf-8"/>
+</head>
+<body style="background-color:lightblue;">
+<h1 style="color:pink;">Main Heading</h1>
+<p style ="color:blue;size=20px;">This is a paragraph one</p>
+<h2 style="text -align:right">This is heading right</h2>
+<h5 style="front-size:100%;">Less Important Heading</h5>
+<p style="front-family:verdana;">This is paragraph two</p>
+
+
+
+
+</body>
+</html>

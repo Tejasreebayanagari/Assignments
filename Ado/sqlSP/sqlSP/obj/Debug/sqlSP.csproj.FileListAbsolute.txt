@@ -1,0 +1,7 @@
+C:\Assignments\Ado\sqlSP\sqlSP\bin\Debug\sqlSP.exe.config
+C:\Assignments\Ado\sqlSP\sqlSP\bin\Debug\sqlSP.exe
+C:\Assignments\Ado\sqlSP\sqlSP\bin\Debug\sqlSP.pdb
+C:\Assignments\Ado\sqlSP\sqlSP\obj\Debug\sqlSP.csproj.AssemblyReference.cache
+C:\Assignments\Ado\sqlSP\sqlSP\obj\Debug\sqlSP.csproj.CoreCompileInputs.cache
+C:\Assignments\Ado\sqlSP\sqlSP\obj\Debug\sqlSP.exe
+C:\Assignments\Ado\sqlSP\sqlSP\obj\Debug\sqlSP.pdb
