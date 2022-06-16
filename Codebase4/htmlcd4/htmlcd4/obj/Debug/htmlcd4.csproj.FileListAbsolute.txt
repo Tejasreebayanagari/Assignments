@@ -1,0 +1,7 @@
+C:\Assignments\Codebase4\htmlcd4\htmlcd4\bin\Debug\htmlcd4.exe.config
+C:\Assignments\Codebase4\htmlcd4\htmlcd4\bin\Debug\htmlcd4.exe
+C:\Assignments\Codebase4\htmlcd4\htmlcd4\bin\Debug\htmlcd4.pdb
+C:\Assignments\Codebase4\htmlcd4\htmlcd4\obj\Debug\htmlcd4.csproj.AssemblyReference.cache
+C:\Assignments\Codebase4\htmlcd4\htmlcd4\obj\Debug\htmlcd4.csproj.CoreCompileInputs.cache
+C:\Assignments\Codebase4\htmlcd4\htmlcd4\obj\Debug\htmlcd4.exe
+C:\Assignments\Codebase4\htmlcd4\htmlcd4\obj\Debug\htmlcd4.pdb
